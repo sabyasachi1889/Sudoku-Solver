@@ -30,16 +30,7 @@ The result will be printed to your terminal.
 
 Breakdown - https://www.5minsofcode.com/sodoku_solver.html
 
-Video - https://youtu.be/6fS0srk4dH4
 
 ## Supporting
 
 Support "5 minutes of code" project using different channels
-
-### Buy me a coffee
-
-[Buy me a coffee](https://www.buymeacoffee.com/sergeytrasko)
-
-### Youtube channel
-
-Subscribe to [5 minutes of code](https://www.youtube.com/channel/UCoa8IHQyqtYkHhsOZ4XpHaw/) Youtube channel
