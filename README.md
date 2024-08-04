@@ -26,11 +26,6 @@ go run .
 
 The result will be printed to your terminal.
 
-## External Links
-
-Breakdown - https://www.5minsofcode.com/sodoku_solver.html
-
-
 ## Supporting
 
 Support "5 minutes of code" project using different channels
